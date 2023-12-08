@@ -14,6 +14,7 @@
             "stake": "terra1cy2lm4jeaxmamn75sxmftclfdpm5aadsyk2xym6q4nju2hs725lqeruejq",
             "custody": "terra1950mwzgaw6vyetcjs94njhwmxaqssfee978a4dehtd0tvrhawcdqwucw2n",
             "denom":"uluna"
+            "precision":8
         },
         {
             "name": "bLuna",
