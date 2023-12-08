@@ -13,7 +13,7 @@
             "token": "terra1jtdseyt9rxtjnv0am052g03h305tl5d4sjplvhj6cx20nac7agrs3y52l8",
             "stake": "terra1cy2lm4jeaxmamn75sxmftclfdpm5aadsyk2xym6q4nju2hs725lqeruejq",
             "custody": "terra1950mwzgaw6vyetcjs94njhwmxaqssfee978a4dehtd0tvrhawcdqwucw2n",
-            "denom":"uluna"
+            "denom":"uluna",
             "precision":8
         },
         {
