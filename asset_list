@@ -1,11 +1,18 @@
 {
     "testnet": [
         {
-            "name": "LunaX",
-            "icon": "https://assets.capapult.finance/icon/LunaX.svg",
-            "token": "terra1rcj950fwfe9ewwthwt5jrknksz2ctwp7l6qqf8tjzejg85upqu6qzgpgmk",
-            "stake": "terra16mlgqr5pkadqxrdgxfwckvu9v5ja6jhq79drwt0fjlxg4f7zj6jsfj4jq8",
-            "custody": "terra1drlmnx2gftaduzy3t0dhjrlmkc2xld7sl82crzssxdu6xu6yhgksfxyfeg"
+            "name": "ampLuna",
+            "icon": "https://static.coinpaprika.com/coin/ampluna-ampluna/logo.png?rev=10985843",
+            "token": "terra1xgvp6p0qml53reqdyxgcl8ttl0pkh0n2mtx2n7tzfahn6e0vca7s0g7sg6",
+            "stake": "terra1kye343r8hl7wm6f3uzynyyzl2zmcm2sqmvvzwzj7et2j5jj7rjkqa2ue88",
+            "custody": "terra1dmz7vh8pxy98zywxw22tdcpnnw6tp00munk0uzavckvcwtqds0zsw30enh"
+        },
+        {
+            "name": "wBTC",
+            "icon": "https://gravedigger.backbonelabs.io/boneluna.png",
+            "token": "terra1xztnx8mm7dagn4ck3dgylaqucp6h6agw83pmyc29hnplq7355trs78fkcq",
+            "stake": "terra18200wue9sjzz9c2p7thzn47kj6d7lzya3gj4xemrcvmlu8skcugq227qfr",
+            "custody": "terra1lhvqgjkpz490xaeypztzwggjgw2dxh5qjg6z0rywrfs6k7ts2yaspzfp5x"
         },
         {
             "name": "bLuna",
@@ -15,12 +22,13 @@
             "custody": "terra1lhvqgjkpz490xaeypztzwggjgw2dxh5qjg6z0rywrfs6k7ts2yaspzfp5x"
         },
         {
-            "name": "ampLuna",
-            "icon": "https://static.coinpaprika.com/coin/ampluna-ampluna/logo.png?rev=10985843",
-            "token": "terra1xgvp6p0qml53reqdyxgcl8ttl0pkh0n2mtx2n7tzfahn6e0vca7s0g7sg6",
-            "stake": "terra1kye343r8hl7wm6f3uzynyyzl2zmcm2sqmvvzwzj7et2j5jj7rjkqa2ue88",
-            "custody": "terra1dmz7vh8pxy98zywxw22tdcpnnw6tp00munk0uzavckvcwtqds0zsw30enh"
+            "name": "LunaX",
+            "icon": "https://assets.capapult.finance/icon/LunaX.svg",
+            "token": "terra1rcj950fwfe9ewwthwt5jrknksz2ctwp7l6qqf8tjzejg85upqu6qzgpgmk",
+            "stake": "terra16mlgqr5pkadqxrdgxfwckvu9v5ja6jhq79drwt0fjlxg4f7zj6jsfj4jq8",
+            "custody": "terra1drlmnx2gftaduzy3t0dhjrlmkc2xld7sl82crzssxdu6xu6yhgksfxyfeg"
         }
+    
     ],
     "mainnet": [
         {
